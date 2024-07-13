@@ -1,2 +1,2 @@
 # DSTER
-Dual state transformer for emotion recognition
+Dual state transformer for emotion recognition(IJCB'24)
